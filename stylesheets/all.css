@@ -627,7 +627,7 @@ progress {
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1320px;
+    max-width: 1440px;
   }
 }
 :root {
@@ -4827,7 +4827,7 @@ img {
 }
 
 nav {
-  padding: 3em 0;
+  padding: 3em 1.5em;
   max-width: 1440px;
   margin: auto;
 }

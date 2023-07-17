@@ -1,9 +1,10 @@
 @import'../node_modules/bootstrap/scss/bootstrap-reboot.scss';
 @import'../node_modules/bootstrap/scss/bootstrap-grid.scss';
+@import'../node_modules/bootstrap/scss/variables';
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
 @import 'config';
 nav{  
-    padding: 3em 0;
+    padding: 3em 1.5em;
     max-width: 1440px;
     margin: auto    
 }
